@@ -1,0 +1,22 @@
+.header {
+    color: white;
+    background-color: #031945;
+    padding: 15px;
+}
+
+h2 {
+    margin: 10px;
+}
+
+.link {
+    color: white;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/* .logo {
+    height: 20vmin;
+    border: 20px white;
+    pointer-events: none;
+} */

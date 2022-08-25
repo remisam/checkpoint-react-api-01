@@ -1,0 +1,47 @@
+.game-link {
+    text-decoration: none;
+    background-color: #1c376c;
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.game-photo {
+    width: 390px;
+    height: 290px;
+}
+
+.game-delete-btn {
+    padding: 15px;
+    margin: 20px auto 10px;
+    background-color: #1c376c;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 2px 2px 5px #031945;
+    cursor: pointer;
+}
+
+.game-delete-btn:hover {
+    background-color: rgb(197, 91, 91);
+}
+
+.game-card {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid white;
+    border-radius: 15px;
+    box-shadow: 2px 2px 15px #031945;
+    padding: 20px;
+    transition: all 0.2s ease-in-out;
+}
+
+.game-card:hover {
+    transform: scale(1.05);
+}
+
+
+
+
+
