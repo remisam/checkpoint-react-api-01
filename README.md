@@ -1,2 +1,2 @@
-# MY FIRST CHECKPOINT JavaScript
+# MY CHECKPOINT React API
 Fetch/Axios
